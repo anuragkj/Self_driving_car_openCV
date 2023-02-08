@@ -1,6 +1,6 @@
 
 from MotorModule import Motor
-from LaneModule import getLaneCurve
+from LaneDetectionModule import getLaneCurve
 import WebcamModule
  
 ##################################################
